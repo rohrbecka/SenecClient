@@ -1,0 +1,26 @@
+{
+    "ENERGY": {
+        "GUI_POW_SOCK_0_FORCE_ON": "u8_00",
+
+        "GUI_POW_SOCK_0_ENABLE": "u8_01",
+        "GUI_SOCK_0_DATA_MIN_POW": "u1_09C4",
+        "GUI_SOCK_0_DATA_MIN_TIME": "u1_0002",
+        "GUI_SOCK_0_DATA_ON_TIME": "u1_003C",
+        "GUI_SOCK_0_DATA_MAX_TIME": "u1_0000",
+
+        "GUI_POW_SOCK_0_POW_ON": "u8_00",
+        "GUI_POW_SOCK_0_TIME_REM": "u1_0000",
+
+
+        "GUI_POW_SOCK_1_FORCE_ON": "u8_00",
+
+        "GUI_POW_SOCK_1_ENABLE": "u8_00"
+        "GUI_SOCK_1_DATA_MIN_POW": "u1_0000",
+        "GUI_SOCK_1_DATA_MIN_TIME": "u1_0000",
+        "GUI_SOCK_1_DATA_ON_TIME": "u1_0000",
+        "GUI_SOCK_1_DATA_MAX_TIME": "u1_0000",
+
+        "GUI_POW_SOCK_1_POW_ON": "u8_00",
+        "GUI_POW_SOCK_1_TIME_REM": "u1_0000",
+    }
+}

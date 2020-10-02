@@ -1,0 +1,29 @@
+{
+    "ENERGY": {
+        "STAT_STATE": "u8_10",
+        "STAT_STATE_DECODE": "u8_10",
+        "STAT_HOURS_OF_OPERATION": "u3_00001347",
+        "STAT_DAYS_SINCE_MAINT": "u3_00000000",
+        "GUI_BAT_DATA_POWER": "fl_C3B967EF",
+        "GUI_BAT_DATA_VOLTAGE": "fl_423E28F5",
+        "GUI_BAT_DATA_CURRENT": "fl_C0F9999A",
+        "GUI_BAT_DATA_FUEL_CHARGE": "fl_427EE148",
+        "GUI_BAT_DATA_OA_CHARGING": "fl_44A4920B",
+        "STAT_SULFAT_CHRG_COUNTER": "u3_00000000",
+        "GUI_HOUSE_POW": "fl_43B38D0E",
+        "GUI_INVERTER_POWER": "fl_80000000",
+        "STAT_LIMITED_NET_SKEW": "u8_00",
+        "STAT_LIMITED_NO_STAND_BY": "u8_00",
+        "GUI_CAP_TEST_DIS_COUNT": "fl_00000000",
+        "GUI_SCHARGE_REMAIN": "u1_0000",
+        "GUI_SCHARGE_ELAPSED": "u1_0000",
+        "GUI_CHARGING_INFO": "u8_00",
+        "OFFPEAK_DURATION": "u1_0000",
+        "OFFPEAK_RUNNING": "u8_00",
+        "OFFPEAK_CURRENT": "fl_00000000",
+        "OFFPEAK_TARGET": "u8_64"
+    },
+    "SYS_UPDATE": {
+        "NPU_VER": "u1_0002"
+    }
+}

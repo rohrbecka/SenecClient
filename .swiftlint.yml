@@ -1,0 +1,23 @@
+disabled_rules:
+- variable_name
+- file_length
+- type_body_length
+- large_tuple
+- todo
+- type_name
+- cyclomatic_complexity
+- function_body_length
+- force_cast
+- force_try
+
+opt_in_rules:
+- empty_count
+- explicit_acl
+
+vertical_whitespace:
+  max_empty_lines: 3
+
+excluded: # paths to ignore during linting.
+- Carthage
+- ValueConversion.playground
+

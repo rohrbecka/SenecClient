@@ -1,0 +1,23 @@
+{
+    "WIZARD": {
+        "GUI_LANG": "u8_00",
+        "FEATURECODE_ENTERED": "u8_00"
+    },
+    "LOG": {
+        "USER_LEVEL": "u8_00",
+        "USERNAME": "st_"
+    },
+    "RTC": {
+        "WEB_TIME": "u3_5BB93F31"
+    },
+    "FEATURES": {
+        "CAR": "u8_01",
+        "CLOUDREADY": "u8_01",
+        "ECOGRIDREADY": "u8_01",
+        "HEAT": "u8_01",
+        "ISLAND": "u8_00",
+        "PEAKSHAVING": "u8_01",
+        "SHKW": "u8_00",
+        "SOCKETS": "u8_01"
+    }
+}
