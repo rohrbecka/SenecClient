@@ -364,6 +364,4 @@ extension SenecEnergyFlowTests {
         XCTAssertEqual(sut.housePowerConsumption, 491.238, accuracy: 0.001)
         XCTAssertEqual(sut.batteryStateOfCharge, 0.678, accuracy: 0.001)
     }
-
-
 }
